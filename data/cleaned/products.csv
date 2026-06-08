@@ -1,0 +1,121 @@
+product_id,product_name,category,unit_cost,unit_price,supplier,active
+P0001,Lightslategray Smart Watch,Electronics,26.48,58.62,Ryan and Sons,True
+P0002,Lavender Usb Hub,Electronics,108.89,230.82,Moreno-Cooper,False
+P0003,Bisque Tablet Case,Electronics,88.27,171.57,"Taylor, Shea and Lee",False
+P0004,Dimgray Usb Hub,Electronics,53.81,114.79,Obrien PLC,True
+P0005,Darkviolet Smart Watch,Electronics,92.02,181.52,Allen LLC,True
+P0006,Mediumseagreen Headphones,Electronics,150.3,273.98,Barnes-Davis,True
+P0007,Blue Smart Watch,Electronics,110.8,180.16,"Reese, Cross and Anderson",True
+P0008,Whitesmoke Headphones,Electronics,120.69,223.03,Shepard-Williams,False
+P0009,Moccasin Bluetooth Speaker,Electronics,56.37,102.74,"Smith, Conner and Young",True
+P0010,Orchid Usb Hub,Electronics,100.66,236.09,Graham-Gibbs,False
+P0011,Brown Headphones,Electronics,72.14,116.27,"Steele, Wilson and Anderson",False
+P0012,Azure Headphones,Electronics,10.75,20.32,Acevedo Inc,True
+P0013,Turquoise Bluetooth Speaker,Electronics,91.01,127.84,Ward Group,False
+P0014,Darkcyan Headphones,Electronics,104.55,189.67,Hughes Ltd,False
+P0015,Saddlebrown Smart Watch,Electronics,103.39,147.82,Flores Ltd,True
+P0016,Hotpink Smart Watch,Electronics,108.43,182.65,Cisneros and Sons,True
+P0017,Lightcyan Tablet Case,Electronics,15.75,30.38,Kelly-Roth,True
+P0018,Teal Tablet Case,Electronics,146.67,281.84,"White, Armstrong and Washington",True
+P0019,Slateblue Smart Watch,Electronics,22.04,36.3,Hines-Schneider,True
+P0020,Darkturquoise Headphones,Electronics,120.72,185.28,"Clark, Warren and Baker",True
+P0021,Blueviolet Throw Blanket,Home,157.06,217.0,Allen PLC,True
+P0022,Antiquewhite Throw Blanket,Home,85.66,192.12,"Galloway, Deleon and Cooper",False
+P0023,Lavenderblush Storage Bin,Home,8.57,15.34,Roy-Durham,True
+P0024,Wheat Cookware Set,Home,104.81,169.87,Russell and Sons,False
+P0025,Lavender Throw Blanket,Home,125.9,187.19,"Brooks, Ramsey and Brown",True
+P0026,Navajowhite Desk Lamp,Home,112.59,187.78,Vazquez-Smith,False
+P0027,Burlywood Throw Blanket,Home,152.07,283.79,"Richardson, Cunningham and Zimmerman",True
+P0028,Lightsteelblue Storage Bin,Home,179.34,307.09,Andrews-Donovan,True
+P0029,Royalblue Air Purifier,Home,21.58,35.33,Aguilar-Martin,False
+P0030,Peachpuff Cookware Set,Home,41.7,90.28,"Armstrong, Bennett and Deleon",True
+P0031,Lightyellow Air Purifier,Home,145.72,254.7,"May, Malone and Reese",True
+P0032,Saddlebrown Cookware Set,Home,75.4,148.44,Small LLC,True
+P0033,Darkviolet Throw Blanket,Home,114.87,211.78,"Bowers, Riley and Walsh",False
+P0034,Lightblue Desk Lamp,Home,120.64,265.11,Rivera Inc,True
+P0035,Lightyellow Air Purifier,Home,146.56,326.93,Barton LLC,True
+P0036,Goldenrod Air Purifier,Home,40.11,71.47,Zamora Inc,True
+P0037,Ghostwhite Cookware Set,Home,76.8,171.97,Phillips and Sons,True
+P0038,Plum Cookware Set,Home,51.71,81.71,Elliott-Yu,True
+P0039,Chartreuse Cookware Set,Home,46.73,66.47,Dean-Johnson,True
+P0040,Sienna Cookware Set,Home,89.94,214.96,Sanders Inc,True
+P0041,Salmon Trail Jacket,Apparel,32.89,46.27,Compton-Johnson,True
+P0042,Red Denim Shirt,Apparel,35.8,79.85,Curry LLC,False
+P0043,Khaki Performance Hoodie,Apparel,14.68,33.48,"Lawson, Nguyen and Bates",True
+P0044,Mistyrose Performance Hoodie,Apparel,162.6,279.36,"Sanchez, Dodson and Taylor",True
+P0045,Azure Graphic Tee,Apparel,170.05,354.19,Clayton-Merritt,True
+P0046,Paleturquoise Denim Shirt,Apparel,133.53,310.17,"Wilson, Thomas and Neal",True
+P0047,Powderblue Graphic Tee,Apparel,159.8,243.5,Johnson-Ballard,True
+P0048,Darkviolet Running Socks,Apparel,150.66,316.06,Garza-Howard,True
+P0049,Darkviolet Graphic Tee,Apparel,43.15,59.24,Guerrero-Davis,True
+P0050,Olive Graphic Tee,Apparel,76.47,171.47,"Gray, Russell and Jones",True
+P0051,Indianred Performance Hoodie,Apparel,60.39,104.92,Hoffman Group,True
+P0052,Darkgreen Trail Jacket,Apparel,68.52,142.04,"Rivas, Khan and Miranda",True
+P0053,Wheat Denim Shirt,Apparel,11.09,23.29,Duncan-Hooper,True
+P0054,Darkorchid Trail Jacket,Apparel,49.27,83.38,Bridges-Waters,True
+P0055,Palegoldenrod Performance Hoodie,Apparel,98.61,150.07,"Hernandez, Matthews and Mejia",True
+P0056,Teal Graphic Tee,Apparel,167.31,385.75,Garrett-Williams,True
+P0057,Black Running Socks,Apparel,41.82,95.09,Mendoza and Sons,True
+P0058,Aliceblue Graphic Tee,Apparel,143.13,224.02,Contreras PLC,False
+P0059,Powderblue Graphic Tee,Apparel,133.96,310.18,"Myers, Mcclure and Brown",False
+P0060,Chartreuse Performance Hoodie,Apparel,149.27,306.49,Bass Group,True
+P0061,Steelblue Makeup Brush Set,Beauty,110.37,241.21,Jones Ltd,False
+P0062,Goldenrod Face Serum,Beauty,138.35,274.98,"Rogers, Montes and Dickerson",False
+P0063,Burlywood Body Lotion,Beauty,5.54,8.2,Brooks Inc,True
+P0064,Lightseagreen Face Serum,Beauty,32.62,60.15,Carter PLC,True
+P0065,Cornsilk Sunscreen,Beauty,125.01,270.21,"Morris, Chavez and Ayala",False
+P0066,Turquoise Body Lotion,Beauty,50.62,103.29,Wiggins Group,True
+P0067,Palevioletred Body Lotion,Beauty,19.77,33.07,"Thomas, Blair and Walker",False
+P0068,Lightseagreen Sunscreen,Beauty,44.29,103.65,Smith-Simpson,True
+P0069,Red Face Serum,Beauty,175.47,259.35,"Campbell, Martin and Klein",True
+P0070,Rosybrown Face Serum,Beauty,75.18,131.06,Barber Group,True
+P0071,Darkseagreen Hair Dryer,Beauty,34.77,66.14,"Taylor, Smith and Lindsey",False
+P0072,Slategray Makeup Brush Set,Beauty,149.77,272.32,"Garrett, Wells and Cruz",True
+P0073,Burlywood Body Lotion,Beauty,170.56,372.75,Cunningham PLC,False
+P0074,Cornflowerblue Makeup Brush Set,Beauty,27.78,62.08,Johnson-Zuniga,True
+P0075,White Body Lotion,Beauty,78.21,134.51,Jones-Lee,True
+P0076,Green Hair Dryer,Beauty,46.21,81.73,Hall-Pineda,False
+P0077,Maroon Face Serum,Beauty,6.81,9.56,Espinoza-Jackson,False
+P0078,Mediumturquoise Body Lotion,Beauty,129.83,268.06,Rodriguez-Stephens,True
+P0079,Cyan Face Serum,Beauty,21.67,28.55,Smith-Atkinson,True
+P0080,Firebrick Makeup Brush Set,Beauty,163.94,392.84,"Garcia, Morrison and Smith",True
+P0081,Darkolivegreen Yoga Mat,Sports,49.39,96.93,Christensen and Sons,False
+P0082,Thistle Resistance Bands,Sports,28.14,64.05,"Stewart, Mcdonald and Payne",True
+P0083,Mediumturquoise Resistance Bands,Sports,34.73,63.1,Martinez-Robinson,False
+P0084,Crimson Water Bottle,Sports,20.69,42.76,"Gardner, Parker and Watkins",True
+P0085,Floralwhite Yoga Mat,Sports,59.82,142.09,"Morris, Thomas and Foster",True
+P0086,Teal Resistance Bands,Sports,167.09,263.23,Dudley Inc,True
+P0087,Plum Foam Roller,Sports,59.78,136.09,Mitchell-Brown,False
+P0088,Royalblue Water Bottle,Sports,102.24,236.31,Fleming Inc,False
+P0089,Orchid Yoga Mat,Sports,38.06,49.96,Ferguson-Pennington,False
+P0090,Sandybrown Resistance Bands,Sports,33.62,60.09,"Gibbs, Contreras and Jackson",False
+P0091,Ghostwhite Yoga Mat,Sports,82.27,196.39,Smith and Sons,False
+P0092,Darkgoldenrod Gym Bag,Sports,24.69,51.3,Shannon-Chapman,True
+P0093,Gainsboro Yoga Mat,Sports,40.65,64.09,Fuller LLC,True
+P0094,Tomato Foam Roller,Sports,160.91,309.52,Jackson-Payne,True
+P0095,Slategray Foam Roller,Sports,139.2,202.91,"Mcdaniel, Kim and Chang",True
+P0096,Lavender Gym Bag,Sports,123.46,280.31,"Sanchez, Wilson and Robertson",True
+P0097,Yellowgreen Gym Bag,Sports,70.37,163.15,"Ferrell, Ortiz and Morgan",True
+P0098,Royalblue Water Bottle,Sports,10.05,17.88,"Johnson, Floyd and Chapman",False
+P0099,Pink Gym Bag,Sports,114.96,179.3,Becker-Vang,True
+P0100,Saddlebrown Yoga Mat,Sports,119.83,280.83,Graves-Powell,True
+P0101,Springgreen Standing Desk Mat,Office,156.07,338.95,Mccullough PLC,True
+P0102,Darkviolet Notebook Pack,Office,100.75,195.72,Diaz Inc,True
+P0103,Oldlace Standing Desk Mat,Office,47.01,100.44,"Thomas, Hopkins and Jackson",True
+P0104,Ivory Standing Desk Mat,Office,33.51,71.93,"Bailey, Craig and Miller",True
+P0105,Orangered Notebook Pack,Office,57.25,124.3,"Marks, Diaz and Waters",True
+P0106,Yellow Planner,Office,27.98,56.39,Giles-Mcdaniel,True
+P0107,Palegreen Desk Organizer,Office,82.95,140.71,"Hernandez, Jones and Curtis",False
+P0108,Forestgreen Notebook Pack,Office,137.39,299.87,Holden and Sons,False
+P0109,Mediumorchid Desk Organizer,Office,21.27,39.14,"Sanders, Bryant and Wheeler",True
+P0110,Blueviolet Standing Desk Mat,Office,167.87,311.63,"Garza, Barton and Adams",True
+P0111,Plum Monitor Stand,Office,86.94,116.59,"Lynch, Roberts and Payne",True
+P0112,Azure Standing Desk Mat,Office,177.23,361.01,Martinez Inc,True
+P0113,Mediumpurple Planner,Office,79.85,152.02,Bean Ltd,True
+P0114,Khaki Planner,Office,23.84,41.45,"Wilkinson, Hamilton and Ball",True
+P0115,Lightcoral Monitor Stand,Office,49.6,66.66,"Costa, Wong and Evans",True
+P0116,Mediumslateblue Desk Organizer,Office,36.42,53.16,"Lynch, Spencer and Jones",True
+P0117,Darkblue Desk Organizer,Office,158.43,252.27,Reed-Garrett,False
+P0118,Tan Desk Organizer,Office,114.17,177.52,Rivers-Potter,True
+P0119,Blue Standing Desk Mat,Office,37.39,78.86,"Pena, Davis and Mclean",True
+P0120,Lavenderblush Desk Organizer,Office,98.52,123.81,"Morales, Myers and Gonzalez",True
