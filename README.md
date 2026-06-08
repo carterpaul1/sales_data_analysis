@@ -115,6 +115,7 @@ Testing documentation is included in `docs/` and `powerbi/`:
 After running the Streamlit app and building the Power BI report, add screenshots to `reports/`:
 
 - executive KPI dashboard
+![Streamlit dashboard overview](reports/dashboard_overview.png)
 - revenue trend analysis
 - category and product performance
 - returns and discount analysis
