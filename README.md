@@ -117,7 +117,11 @@ After running the Streamlit app and building the Power BI report, add screenshot
 - executive KPI dashboard
 ![Streamlit dashboard overview](reports/dashboard_overview.png)
 - revenue trend analysis
+[streamlit](reports\revenue_profit_trend.png)
 - category and product performance
+[streamlit](reports/sales_category.png)
 - returns and discount analysis
+[streamlit](returns_category.png)
 - Power BI model view
-- Power BI final report pages
+[powerbi](powerbi/model_view1.png)
+[powerbi](model_view2.png)

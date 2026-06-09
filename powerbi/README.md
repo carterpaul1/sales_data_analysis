@@ -60,26 +60,31 @@ DIVIDE([Discount Amount], [Gross Revenue])
 ### 1. Executive Overview
 
 - KPI cards: Net Revenue, Profit, Orders, Average Order Value, Return Rate
+[powerbi](executive_summary_report.png)
 - line chart: Net Revenue and Profit by Month
+[powerbi](line_chart_month.png)
 - bar chart: Net Revenue by Category
-- slicers: Date, Region, Category, Sales Channel
+[powerbi](revenue_category.png)
 
 ### 2. Product Performance
 
 - matrix: Category, Product, Revenue, Profit, Margin
-- bar chart: Top 10 Products by Revenue
-- scatter chart: Discount Rate vs Profit Margin
+[powerbi](product_matrix.png)
 
 ### 3. Customer and Region Analysis
 
 - bar chart: Revenue by Region
+[powerbi](region_net_revune.png)
+
 - stacked bar: Customer Segment by Revenue
+[powerbi](customer_segment_net_revuenue.png)
 - table: Top Customers by Revenue
+[powerbi](top_customer_by_region.png)
 
 ### 4. Returns and Discount Risk
 
-- bar chart: Returned Orders by Category
 - card: Return Rate
+[powerbi](return_rate.png)
 - table: Products with high returns and low margin
 
 ## Portfolio Notes
