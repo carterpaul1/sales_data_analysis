@@ -110,18 +110,30 @@ Testing documentation is included in `docs/` and `powerbi/`:
 - `docs/user_acceptance_testing.md`
 - `powerbi/powerbi_testing_checklist.md`
 
-## Suggested Portfolio Screenshots
+## Portfolio Screenshots
 
-After running the Streamlit app and building the Power BI report, add screenshots to `reports/`:
+### Streamlit Dashboard Overview
 
-- executive KPI dashboard
 ![Streamlit dashboard overview](reports/dashboard_overview.png)
-- revenue trend analysis
-[streamlit](reports\revenue_profit_trend.png)
-- category and product performance
-[streamlit](reports/sales_category.png)
-- returns and discount analysis
-[streamlit](returns_category.png)
-- Power BI model view
-[powerbi](powerbi/model_view1.png)
-[powerbi](model_view2.png)
+
+### Revenue and Profit Trend
+
+![Revenue and profit trend](reports/revenue_profit_trend.png)
+
+### Sales by Category
+
+![Sales by category](reports/sales_category.png)
+
+### Returns by Category
+
+![Returns by category](reports/returns_category.png)
+
+### Power BI Executive Summary
+
+![Power BI executive summary](reports/executive_summary_report.png)
+
+### Power BI Model View
+
+![Power BI model view 1](reports/model_view1.png)
+
+![Power BI model view 2](reports/model_view2.png)
